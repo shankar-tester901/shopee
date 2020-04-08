@@ -1,0 +1,20 @@
+{
+  "functions": {
+    "targets": [
+      "shoppy",
+      "shoppy_1"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  },
+  "applogic": {
+    "targets": [
+      "shoppy"
+    ],
+    "ignore": [],
+    "source": "applogic"
+  }
+}

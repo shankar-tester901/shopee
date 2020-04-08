@@ -1,0 +1,11 @@
+{
+	"name": "shoppy",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1001@zohocorp.com",
+	"dependencies": {
+		"express": "^4.17.1",
+		"twilio": "^3.41.1",
+		"zcatalyst-sdk-node": "latest"
+	}
+}
